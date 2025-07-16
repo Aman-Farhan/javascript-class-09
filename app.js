@@ -1,40 +1,23 @@
+let firstName = ["Irfan" , "mubeen", "zaheer" , "khizer"];
+let lastName = ["khan" , "UL Islam", "Ahmed" , "Sajjad"];
+
+for (i = 0 ; i < firstName.length ; i++){
+    for (let j = 0 ; j < lastName.length ; j++){
+        console.log(firstName[i] + " " + lastName[i])
+    }
+}
+
 // let firstName = ["Irfan" , "mubeen", "zaheer" , "khizer"];
 // let lastName = ["khan" , "UL Islam", "Ahmed" , "Sajjad"];
 
-// for (i = 0 ; i < firstName.length ; i++){
-//     for (let j = 0 ; j < lastName.length ; j++){
-//         console.log(firstName[i] + " " + lastName[i])
-//     }
-// }
-
-
-
-
-
-
-// let firstName = ["Irfan" , "mubeen", "zaheer" , "khizer"];
-
-// let lastName = ["khan" , "UL Islam", "Ahmed" , "Sajjad"];
-
-
-// for (i = 0 ; i < firstName.length; i++  ){
+// for (i = 0 ; i < firstName.length; i++ ){
 //     for (j = 0 ; j < lastName.length ; j++){
 //         console.log(firstName[i]+ " "+ lastName[i]);
 //     } 
 // }
 
 
-
-
-
-
 // let rounds = ["round 1","round2",]
-
-
-
-
-
-
 
 // for (i = 0 ; i < 5 ; i++){
 //     console.log("you have completed "+ i + "number or rounds");
