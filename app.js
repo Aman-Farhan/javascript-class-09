@@ -13,9 +13,11 @@
 
 
 // let firstName = ["Irfan" , "mubeen", "zaheer" , "khizer"];
+
 // let lastName = ["khan" , "UL Islam", "Ahmed" , "Sajjad"];
 
-// for (i = 0 ; i < firstName.length; i++ ){
+
+// for (i = 0 ; i < firstName.length; i++  ){
 //     for (j = 0 ; j < lastName.length ; j++){
 //         console.log(firstName[i]+ " "+ lastName[i]);
 //     } 
