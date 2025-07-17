@@ -27,15 +27,37 @@
 // }
 
 
-for (i = 0 ; i < 3 ; i++){
-    let row = "";
-    for (j = 0 ; j < 3 ; j++){
-        row = row + "* " ;
-    }
-    console.log(row , i)
-}
+// for (i = 0 ; i < 3 ; i++){
+//     let row = "";
+//     for (j = 0 ; j < 3 ; j++){
+//         row = row + "* " ;
+//     }
+//     console.log(row , i)
+// }
 
-let num = 5
-for (i = 1 ; i <= 10 ; i++){
-    console.log(num +"x" + i + " = " + num*i );
-}
+// let num = 5
+// for (i = 1 ; i <= 10 ; i++){
+//     console.log(num +"x" + i + " = " + num*i );
+// }
+
+
+
+// let arrey = ["karachi","lahore","islamabad","kashmir","quetta"];
+
+// for (i = 0 ; i = arrey.length; i++){
+//     console.log(arrey[i]);
+// }
+
+
+// let firstName = ["Irfan" , "mubeen", "zaheer" , "khizer"];
+// let lastName = ["khan" , "UL Islam", "Ahmed" , "Sajjad"];
+
+// for(i = 0 ; i < firstName.length; i++){
+//     for (j = 0 ; j < lastName.length ; j++){
+//         console.log(firstName[i] + " " + lastName[i]);
+//     }
+// }
+
+
+
+
