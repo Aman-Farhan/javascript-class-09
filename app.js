@@ -42,11 +42,11 @@
 
 
 
-let arrey = ["karachi","lahore","islamabad","kashmir","quetta"];
+// let arrey = ["karachi","lahore","islamabad","kashmir","quetta"];
 
-for (i = 0 ; i = arrey.length; i++){
-    console.log(arrey[i]);
-}
+// for (i = 0 ; i = arrey.length; i++){
+//     console.log(arrey[i]);
+// }
 
 
 // let firstName = ["Irfan" , "mubeen", "zaheer" , "khizer"];
