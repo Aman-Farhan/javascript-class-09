@@ -17,7 +17,7 @@
 // }
 
 
-// let rounds = ["round 1","round2",]
+let rounds = ["round 1","round2",]
 
 // for (i = 0 ; i < 5 ; i++){
 //     console.log("you have completed "+ i + "number or rounds");
