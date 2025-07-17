@@ -27,13 +27,13 @@
 // }
 
 
-// for (i = 0 ; i < 3 ; i++){
-//     let row = "";
-//     for (j = 0 ; j < 3 ; j++){
-//         row = row + "* " ;
-//     }
-//     console.log(row , i)
-// }
+for (i = 0 ; i < 3 ; i++){
+    let row = "";
+    for (j = 0 ; j < 3 ; j++){
+        row = row + "* " ;
+    }
+    console.log(row , i)
+}
 
 // let num = 5
 // for (i = 1 ; i <= 10 ; i++){
